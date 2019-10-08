@@ -9,4 +9,6 @@ java AutocompleteCLI
 ```
 To test code (from AsymmetrikAutocomplete directory):
 
+```
 gradle test
+```
