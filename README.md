@@ -1,6 +1,6 @@
 # AsymmetrikAutocomplete
 
-To run code: 
+To run code (starting from AsymmetrikAutocomplete directory): 
 
 ```
 cd src/main/java
