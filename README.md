@@ -12,3 +12,8 @@ To test code (from AsymmetrikAutocomplete directory):
 ```
 gradle test
 ```
+
+To test code (from AsymmetrikAutocomplete directory) with more output:
+```
+gradle test -i
+```
